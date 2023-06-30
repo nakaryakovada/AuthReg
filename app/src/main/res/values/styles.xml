@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextViewStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#F8F8F8</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="EditTextStyle">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:textColor">@color/blue_500</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/background_radius</item>
+        <item name="android:paddingLeft">15dp</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingRight">15dp</item>
+        <item name="android:paddingBottom">10dp</item>
+        <item name="android:layout_marginStart">50dp</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_marginEnd">50dp</item>
+    </style>
+
+    <style name="ButtonStyle">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">60dp</item>
+        <item name="android:textColor">@color/blue_500</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/background_radius</item>
+        <item name="android:layout_marginStart">75dp</item>
+        <item name="android:layout_marginTop">50dp</item>
+        <item name="android:layout_marginEnd">75dp</item>
+    </style>
+
+</resources>
